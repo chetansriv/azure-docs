@@ -47,7 +47,7 @@ To configure the integration of LearnUpon into Azure AD, you need to add LearnUp
 
 **To add LearnUpon from the gallery, perform the following steps:**
 
-1. In the **[Azure portal](https://portal.azure.com)**, on the left navigation panel, click **Azure Active Directory** icon.
+1. In the Azure portal, on the left navigation panel, click **Azure Active Directory** icon.
 
 	![The Azure Active Directory button](common/select-azuread.png)
 
